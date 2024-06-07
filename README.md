@@ -1,7 +1,7 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="Gui-powerbi" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
 </div>
- # power-bi
+ <h1> Power BI </h1>
 
 <br>
  My studies about power bi tool
